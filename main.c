@@ -1,4 +1,4 @@
 int main() {
-    printf("Hello, World!\n");
+    printf("Ammendment of previous message\n");
     return 0;
 }
